@@ -1,4 +1,7 @@
-Matthew's First CS Homework# 
+Matthew's First CS Homework #
+
+Some of my favorite things about CS193 are:
+
 
 ## Welcome to GitHub Pages
 
