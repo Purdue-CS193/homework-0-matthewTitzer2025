@@ -1,6 +1,6 @@
-Matthew's First CS Homework #
+# matthewTitzer2025's First CS Homework 
 
-Some of my favorite parts of CS193 are:
+## Some of my favorite parts of CS193 are:
 - Being able to learn skills that help me code more efficiently
 - Getting to ask questions to TA's about the topics that I struggled on during lecture
 
